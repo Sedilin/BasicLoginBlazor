@@ -57,12 +57,12 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/images/Login.png",
-      "PackagePath": "staticwebassets/images/Login.png"
+      "Id": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/img/Login.png",
+      "PackagePath": "staticwebassets/img/Login.png"
     },
     {
-      "Id": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/images/Logout.png",
-      "PackagePath": "staticwebassets/images/Logout.png"
+      "Id": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/img/Logout.png",
+      "PackagePath": "staticwebassets/img/Logout.png"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",

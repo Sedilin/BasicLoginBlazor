@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Jhv78hE6/yMFjTC0jBfG4F2o/Ol65DS+f+LLPCygGyU=",
+  "Hash": "iYKffGjeHrvbCOGOl+TjfDC36LVac/S0MCQxW8bK608=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -272,12 +272,12 @@
       "OriginalItemSpec": "wwwroot/favicon.png"
     },
     {
-      "Identity": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/images/Login.png",
+      "Identity": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/img/Login.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "images/Login.png",
+      "RelativePath": "img/Login.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Login.png"
+      "OriginalItemSpec": "wwwroot/img/Login.png"
     },
     {
-      "Identity": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/images/Logout.png",
+      "Identity": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/img/Logout.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/wwwroot/",
       "BasePath": "_content/BlazorApp",
-      "RelativePath": "images/Logout.png",
+      "RelativePath": "img/Logout.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,7 +303,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/Logout.png"
+      "OriginalItemSpec": "wwwroot/img/Logout.png"
     }
   ]
 }

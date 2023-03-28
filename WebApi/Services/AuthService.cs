@@ -10,25 +10,25 @@ public class AuthService : IAuthService
     {
         new User
         {
-            Age = 23,
-            Email = "luskk@via.dk",
+            Age = 36,
+            Email = "trmo@via.dk",
             Domain = "via",
-            Name = "Lukasz Sramkowski",
-            Password = "0605",
-            Role = "Student",
-            Username = "luskk",
-            SecurityLevel = 2
+            Name = "Troels Mortensen",
+            Password = "onetwo3FOUR",
+            Role = "Teacher",
+            Username = "trmo",
+            SecurityLevel = 4
         },
         new User
         {
             Age = 34,
-            Email = "trols@gmail.com",
+            Email = "jakob@gmail.com",
             Domain = "gmail",
-            Name = "Trols Rasmussen",
-            Password = "1234",
-            Role = "Teacher",
-            Username = "trols",
-            SecurityLevel = 4
+            Name = "Jakob Rasmussen",
+            Password = "password",
+            Role = "Student",
+            Username = "jknr",
+            SecurityLevel = 2
         }
     };
         
@@ -37,11 +37,6 @@ public class AuthService : IAuthService
         User? existingUser = users.FirstOrDefault(u => 
             u.Username.Equals(username, StringComparison.OrdinalIgnoreCase));
 
-        if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
-        {
-            throw new Exception("Fields cannot be empty");
-        }
-        
         if (existingUser == null)
         {
             throw new Exception("User not found");
