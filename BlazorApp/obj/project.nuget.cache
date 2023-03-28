@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5V/Y3yA4slo1VaAde8i1yT15Cqu2i4VUq+HFmYrrkKw7KOFoABj1DUGYqmuwUUnGDoBnIE5WhHj9+bummA7tQ==",
+  "success": true,
+  "projectFilePath": "/Users/lukaszsramkowski/RiderProjects/BasicLoginBlazor/BlazorApp/BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/lukaszsramkowski/.nuget/packages/microsoft.aspnetcore.authorization/7.0.4/microsoft.aspnetcore.authorization.7.0.4.nupkg.sha512",
+    "/Users/lukaszsramkowski/.nuget/packages/microsoft.aspnetcore.metadata/7.0.4/microsoft.aspnetcore.metadata.7.0.4.nupkg.sha512",
+    "/Users/lukaszsramkowski/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/lukaszsramkowski/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/lukaszsramkowski/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/Users/lukaszsramkowski/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
